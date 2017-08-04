@@ -16,6 +16,6 @@ Application that utilizes an API to read movie information from moviedb.
 https://github.com/jss14e/lesson8_ajax/settings
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to utilize an api
+2. How to retrieve data from JSON object
+3. How to put JSON object on HTML page
